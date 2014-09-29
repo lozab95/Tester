@@ -1,0 +1,20 @@
+﻿Build started 29/09/2014 11:46:43.
+     1>Project "E:\Uni Documents\Uni\C - Software Programming\Other & Notes\EsrandAdventures\EsrandAdventures\EsrandAdventures.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\EsrandAdventures.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\EsrandAdventures.unsuccessfulbuild".
+         Touching "Debug\EsrandAdventures.lastbuildstate".
+     1>Done Building Project "E:\Uni Documents\Uni\C - Software Programming\Other & Notes\EsrandAdventures\EsrandAdventures\EsrandAdventures.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
