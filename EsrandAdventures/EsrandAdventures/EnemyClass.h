@@ -6,8 +6,11 @@ class Enemy
 public:
 Enemy();
 ~Enemy();
-int getHealth(void);
+void getStats(void);
+int getArmour(void);
+int getDamage(void);
 std::string getName(void);
+
 
 private:
 int health;
