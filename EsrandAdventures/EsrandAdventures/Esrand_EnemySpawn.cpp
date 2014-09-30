@@ -23,8 +23,8 @@ void main (void)
 	player1 = new Player();
 	std::cout<<"\n Hello Boys and Girls"<<std::endl;
 	std::cout<<"\n Below an enemy will be formed using the players level to limit the selection of possiblities."<<std::endl;
-	std::cout<<"\n Its also random."<<std::endl;
-	std::cout<<(enemy1->getName())<<std::endl;
+	std::cout<<" Its also random.\n"<<std::endl;
+	enemy1->getStats();
 	std::cin.get();
 	return;
 }
